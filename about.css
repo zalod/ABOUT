@@ -1,0 +1,15 @@
+body{background-color: aqua;
+    background-image: url(../classwork/images/pexels-gdtography-911738.jpg);
+    background: position 0;}
+    
+h2{
+    background-repeat: no-repeat;
+    background-position:center;
+    background-image: ;
+}
+
+
+#box1 p{
+    font: size 20px;
+    background-color: aqua;
+}
